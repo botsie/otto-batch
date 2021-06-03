@@ -1,0 +1,7 @@
+default:
+  connection_string: sqlite:///./db/chklister.db
+  image_stores:
+    - ../test-data/
+development: {}
+testing: {}
+production: {}
