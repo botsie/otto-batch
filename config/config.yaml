@@ -1,5 +1,5 @@
 default:
-  connection_string: sqlite:///./db/chklister.db
+  connection_string: sqlite:///./db/ottofoto.db
   image_stores:
     - ../test-data/
 development: {}
